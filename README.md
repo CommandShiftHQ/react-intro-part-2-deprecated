@@ -1,5 +1,7 @@
 # Intro to React session 2 lecture
 
+## This version is deprecated as of October 2022 cohort is it contains prop-types.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Its is a simple blog style posts page used to demonstrate the basics of useState, prop types, basic event handlers and a broad intro to working with React in general.
 
 ## Setup
